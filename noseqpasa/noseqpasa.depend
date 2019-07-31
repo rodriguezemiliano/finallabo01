@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1564571866 source:c:\users\chino\eclipse-workspace\test\noseqpasa\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Usuario.h"
+	"Temas.h"
+	"ArrayList.h"
+
+1564356649 source:c:\users\chino\eclipse-workspace\test\noseqpasa\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Arraylist.h"
+
+1564356649 c:\users\chino\eclipse-workspace\test\noseqpasa\arraylist.h
+
+1564569135 source:c:\users\chino\eclipse-workspace\test\noseqpasa\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Usuario.h"
+
+1564569249 c:\users\chino\eclipse-workspace\test\noseqpasa\usuario.h
+	"ArrayList.h"
+
+1564570749 source:c:\users\chino\eclipse-workspace\test\noseqpasa\temas.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Temas.h"
+
+1564570749 c:\users\chino\eclipse-workspace\test\noseqpasa\temas.h
+	"ArrayList.h"
+

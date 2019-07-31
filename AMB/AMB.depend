@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1564548162 source:c:\users\chino\eclipse-workspace\test\amb\libreriarodriguez.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"LibreriaRodriguez.h"
+	"ArrayList.h"
+
+1564547729 c:\users\chino\eclipse-workspace\test\amb\libreriarodriguez.h
+	"ArrayList.h"
+
+1564548169 source:c:\users\chino\eclipse-workspace\test\amb\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LibreriaRodriguez.h"
+	"ArrayList.h"
+
+1564356649 source:c:\users\chino\eclipse-workspace\test\amb\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Arraylist.h"
+
+1564356649 c:\users\chino\eclipse-workspace\test\amb\arraylist.h
+

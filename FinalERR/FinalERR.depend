@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1564542287 source:c:\users\chino\eclipse-workspace\test\finalerr\s_service.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LibreriaRodriguez.h"
+	"S_Service.h"
+
+1564356649 source:c:\users\chino\eclipse-workspace\test\finalerr\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Arraylist.h"
+
+1564356649 c:\users\chino\eclipse-workspace\test\finalerr\arraylist.h
+
+1564526869 source:c:\users\chino\eclipse-workspace\test\finalerr\libreriarodriguez.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"LibreriaRodriguez.h"
+	"ArrayList.h"
+
+1564509214 c:\users\chino\eclipse-workspace\test\finalerr\libreriarodriguez.h
+	"ArrayList.h"
+
+1564545751 source:c:\users\chino\eclipse-workspace\test\finalerr\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Funciones.h"
+
+1564533911 source:c:\users\chino\eclipse-workspace\test\finalerr\s_logentry.c
+	<stdio.h>
+	<stdlib.h>
+	"LibreriaRodriguez.h"
+	"S_LogEntry.h"
+
+1564534119 c:\users\chino\eclipse-workspace\test\finalerr\s_logentry.h
+
+1564542287 c:\users\chino\eclipse-workspace\test\finalerr\s_service.h
+
+1564545779 c:\users\chino\eclipse-workspace\test\finalerr\funciones.h
+	"S_LogEntry.h"
+	"S_Service.h"
+
+1564572952 source:c:\users\chino\eclipse-workspace\test\finalerr\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"S_LogEntry.h"
+	"S_Service.h"
+
