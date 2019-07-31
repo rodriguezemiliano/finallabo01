@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1564574648 source:d:\rodriugezemiliano\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Arraylist.h"
+
+1564574648 d:\rodriugezemiliano\arraylist.h
+
+1564583900 source:d:\rodriugezemiliano\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"LibreriaRodriguez.h"
+	"ArrayList.h"
+
+1564583727 source:d:\rodriugezemiliano\epelicula.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"ePelicula.h"
+
+1564581706 d:\rodriugezemiliano\epelicula.h
+	"ArrayList.h"
+
+1564576077 source:d:\rodriugezemiliano\libreriarodriguez.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"LibreriaRodriguez.h"
+	"ArrayList.h"
+
+1564576077 d:\rodriugezemiliano\libreriarodriguez.h
+	"ArrayList.h"
+
